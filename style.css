@@ -35,7 +35,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding:15px;
+    /* padding:15px; */
 }
 .section-left-section{
     display: flex;
@@ -133,5 +133,19 @@ select,.store,.contact,.login{
     align-items: end;
     position: relative;
  
+}
+.img-section2{
+    width:100%;
+    
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+.img-section2-2{
+    width:20vw;
+    height:30vh;
+    text-align: center;
+
 }
 
